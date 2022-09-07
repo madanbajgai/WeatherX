@@ -73,6 +73,11 @@ const Home = () => {
           />
         </>
       )}
+      <p>
+        {" "}
+        &copy; Designed & Developed by{" "}
+        <a href="https://madanbajgai.com.np">MadanBazgai</a>{" "}
+      </p>
     </div>
   );
 };
